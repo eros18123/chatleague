@@ -1,0 +1,28 @@
+{
+  "name": "AnkiChat",
+  "package": "AnkiChat",
+  "ankiweb_id": "1501839749",
+  "author": "Eros",
+  "version": "4.0",
+  "min_version": "2.1.50",
+  "max_version": "*",
+  "conflicts": [],
+  "homepage": "https://ankichatapp.web.app",
+  "files": [
+    "__init__.py",
+    "auth.py",
+    "chat.py",
+    "halldafama.py",
+    "metas.py",
+    "meulegado.py",
+    "moderacao.py",
+    "mudaridioma.py",
+    "quiz.py",
+    "traducao.py",
+    "zoom.py",
+    "bandeiras/",
+    "jogo.txt",
+    "vendor/",
+    "config.json"
+  ]
+}
